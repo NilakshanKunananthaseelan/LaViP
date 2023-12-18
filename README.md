@@ -2,6 +2,9 @@
 # LaViP: Language-Grounded visual Prompting
 
 
+This repo contains the official implementation of our AAAI 2024 paper
+
+
 ## Abstract
 <p align="center">
 <img src="docs/fig1_illustration.png" alt= "" width="" height="250">
@@ -13,7 +16,7 @@
 
 ## Research Highlights
 <p align="center">
-<img src="docs/model.jpg" alt= "" width="90%" height="90%">
+<img src="docs/final.jpg" alt= "" width="90%" height="90%">
 </p>
 
 * **Language-Grounded Input-Dependent Dynamic Visual Prompting:** To our best knowledge, this is the first paper that explores the language-grounded input-dependent visual prompting without using an external model. For this, we devise `low-rank` learnable vectors. The language integration both imporves classification accuracy and `3x` convergence speed.
