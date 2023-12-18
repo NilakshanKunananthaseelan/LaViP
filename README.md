@@ -41,7 +41,7 @@ This repo contains the official implementation of our AAAI 2024 paper
   * Note that we slightly modifed the [Dassl.pytorch](https://github.com/KaiyangZhou/Dassl.pytorch) to mm_dassl for flexible experiments.
 ```shell
 # Clone this repo
-git clonehttps://github.com/lavip5492/aaai24_5492.git
+git clone https://github.com/NilakshanKunananthaseelan/LaViP.git
 cd lavip_5492
 
 # Create a conda environment
@@ -77,7 +77,7 @@ pip install -r requirements.txt
 
 ## Run
 ### transfer learning benchmarks
-* Move to `lavip_5492/scripts/method_name` directory
+* Move to `LaViP/scripts/method_name` directory
 
 * On the targeted dataset, run the commands with dataset-specific configs as below:
 ```shell
